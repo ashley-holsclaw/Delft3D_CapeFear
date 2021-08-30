@@ -1,0 +1,440 @@
+[forcing]
+Name                            = Boundary01_0001
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.535355  353.406342
+S2   0.088533  13.584234
+N2   0.124297  333.79016
+K2   0.021603  15.306341
+K1   0.102858  185.085707
+O1   0.076492  189.920182
+P1   0.031951  186.659679
+Q1   0.015378  177.847958
+MM   0.00283   324.814532
+MF   0.006504  341.58833
+M4   0.001364  243.800171
+MN4  0.001309  89.440007
+MS4  0.003516  91.651884
+2N2  0.017869  324.146234
+S1   0.003204  273.347898
+
+[forcing]
+Name                            = Boundary01_0002
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.507342  352.735438
+S2   0.083717  14.07845
+N2   0.118313  333.553683
+K2   0.021134  15.4273
+K1   0.10151   184.831933
+O1   0.076032  190.134599
+P1   0.031099  186.714634
+Q1   0.015223  177.637535
+MM   0.002811  324.360015
+MF   0.006459  341.289222
+M4   0.00117   249.727056
+MN4  0.001099  100.570046
+MS4  0.002766  87.278844
+2N2  0.01708   323.577093
+S1   0.003836  284.2331
+
+[forcing]
+Name                            = Boundary01_0003
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.489469  352.345988
+S2   0.081168  14.426039
+N2   0.114603  333.4449
+K2   0.020893  15.530699
+K1   0.100425  184.632811
+O1   0.075605  190.08169
+P1   0.030614  186.700639
+Q1   0.01508   177.39905
+MM   0.002779  323.709473
+MF   0.006389  340.917472
+M4   0.001103  256.048056
+MN4  0.000859  105.657029
+MS4  0.002305  82.978757
+2N2  0.016583  323.23019
+S1   0.00436   289.074485
+
+[forcing]
+Name                            = Boundary01_0004
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.472687  352.174061
+S2   0.078802  14.665674
+N2   0.111127  333.367047
+K2   0.02066   15.566
+K1   0.099275  184.309564
+O1   0.075134  189.872046
+P1   0.030158  186.594985
+Q1   0.014926  177.025596
+MM   0.002736  322.88694
+MF   0.006297  340.449041
+M4   0.000941  256.602853
+MN4  0.000672  111.210675
+MS4  0.001941  78.510174
+2N2  0.016112  322.842972
+S1   0.004784  291.801226
+
+[forcing]
+Name                            = Boundary01_0005
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.457936  352.223749
+S2   0.076712  14.774486
+N2   0.107936  333.28298
+K2   0.020456  15.545048
+K1   0.098     183.849335
+O1   0.074503  189.495072
+P1   0.029712  186.40875
+Q1   0.014747  176.566879
+MM   0.002674  321.706199
+MF   0.006162  339.791168
+M4   0.000716  255.79709
+MN4  0.000519  116.958084
+MS4  0.001674  73.398733
+2N2  0.01568   322.467105
+S1   0.005072  293.558832
+
+[forcing]
+Name                            = Boundary01_0006
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.446244  352.512776
+S2   0.074645  14.999162
+N2   0.104959  333.283517
+K2   0.02027   15.547209
+K1   0.09656   183.504421
+O1   0.073653  189.061945
+P1   0.029421  186.342728
+Q1   0.014529  176.656734
+MM   0.0026    320.232529
+MF   0.006001  338.966523
+M4   0.000539  260.922965
+MN4  0.000392  126.464145
+MS4  0.001476  67.845168
+2N2  0.015299  322.357295
+S1   0.005258  294.675466
+
+[forcing]
+Name                            = Boundary01_0007
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.438081  352.460019
+S2   0.072303  15.17369
+N2   0.102605  333.137595
+K2   0.020042  15.229043
+K1   0.095193  184.089927
+O1   0.072     189.31596
+P1   0.029605  184.611887
+Q1   0.014772  179.296882
+MM   0.002518  318.487999
+MF   0.005816  338.007196
+M4   0.000431  252.640399
+MN4  0.000319  137.001376
+MS4  0.001426  62.158252
+2N2  0.015055  322.450049
+S1   0.005386  295.74128
+
+[forcing]
+Name                            = Boundary01_0008
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.431745  352.221656
+S2   0.070248  15.072358
+N2   0.101247  332.885044
+K2   0.019624  14.85679
+K1   0.094544  184.617203
+O1   0.071729  190.23228
+P1   0.028277  181.423211
+Q1   0.015686  179.430871
+MM   0.002427  316.343501
+MF   0.005607  336.812736
+M4   0.000334  226.197405
+MN4  0.000185  138.861858
+MS4  0.001476  53.682465
+2N2  0.014905  322.462422
+S1   0.005493  296.748016
+
+[forcing]
+Name                            = Boundary01_0009
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.430086  352.247873
+S2   0.069463  15.178835
+N2   0.100088  332.714045
+K2   0.019454  15.011394
+K1   0.093987  182.097285
+O1   0.073254  188.691646
+P1   0.026511  183.796514
+Q1   0.015409  175.346223
+MM   0.002331  313.730822
+MF   0.005374  335.322974
+M4   0.000493  220.695301
+MN4  0.000146  162.211496
+MS4  0.001457  46.746325
+2N2  0.014803  322.457123
+S1   0.005581  297.412671
+
+[forcing]
+Name                            = Boundary01_0010
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.416818  351.92619
+S2   0.068421  15.691092
+N2   0.097263  332.841656
+K2   0.019411  15.528999
+K1   0.088102  181.578648
+O1   0.0708    187.176031
+P1   0.026734  186.534436
+Q1   0.014643  174.802572
+MM   0.002234  310.760577
+MF   0.005126  333.701655
+M4   0.000505  214.082521
+MN4  0.0001    224.357193
+MS4  0.001487  38.390097
+2N2  0.014751  322.898259
+S1   0.005638  297.699498
+
+[forcing]
+Name                            = Boundary02_0001
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+
+[forcing]
+Name                            = Boundary02_0002
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+
+[forcing]
+Name                            = Boundary02_0003
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.745942  6.750884
+S2   0.123469  19.850904
+N2   0.163077  341.92168
+K2   0.021575  28.680052
+K1   0.108497  196.899014
+O1   0.080467  190.895408
+P1   0.040244  192.390524
+Q1   0.015108  185.134124
+MM   0.002587  322.415438
+MF   0.005933  342.632762
+M4   0.007373  184.616757
+MN4  0.001428  178.134083
+MS4  0.005582  133.641473
+2N2  0.02254   339.218338
+S1   0.011006  160.677306
+
+[forcing]
+Name                            = Boundary02_0004
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.640886  358.941992
+S2   0.113038  15.755781
+N2   0.150385  337.383673
+K2   0.023033  19.930051
+K1   0.106397  190.535726
+O1   0.078413  190.006673
+P1   0.036525  189.335173
+Q1   0.015351  181.224284
+MM   0.002658  322.893268
+MF   0.006113  341.700039
+M4   0.005127  182.293365
+MN4  0.001529  100.275564
+MS4  0.006211  114.958711
+2N2  0.021027  331.132684
+S1   0.005607  169.346352
+
+[forcing]
+Name                            = Boundary02_0005
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.588153  355.077278
+S2   0.100466  13.75297
+N2   0.136492  334.714318
+K2   0.022595  16.416591
+K1   0.104447  186.77602
+O1   0.077063  189.394693
+P1   0.033931  187.293305
+Q1   0.015372  178.853374
+MM   0.002744  323.804135
+MF   0.006313  341.455167
+M4   0.002195  210.81985
+MN4  0.001404  76.029604
+MS4  0.004859  99.915797
+2N2  0.019409  326.553869
+S1   0.002364  222.494695
+
+[forcing]
+Name                            = Boundary03_0001
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+
+[forcing]
+Name                            = Boundary03_0002
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+
+[forcing]
+Name                            = Boundary03_0003
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.234142  347.456058
+S2   0.039884  11.854636
+N2   0.050855  334.916166
+K2   0.012799  21.771177
+K1   0.045806  188.409433
+O1   0.039499  209.010611
+P1   0.014155  200.402036
+Q1   0.009784  192.590105
+MM   0.002109  310.389911
+MF   0.004733  338.069465
+M4   0.00765   148.426329
+MN4  0.003655  176.264268
+MS4  0.004567  94.530077
+2N2  0.011536  357.685294
+S1   0.001697  254.602559
+
+[forcing]
+Name                            = Boundary03_0004
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.191536  345.760018
+S2   0.049512  10.57995
+N2   0.06362   332.174847
+K2   0.019824  15.703466
+K1   0.051912  190.28303
+O1   0.051243  205.306378
+P1   0.023538  193.284873
+Q1   0.01393   178.883484
+MM   0.002155  309.012481
+MF   0.004922  333.416622
+M4   0.021138  220.22207
+MN4  0.004212  193.631571
+MS4  0.002925  59.028081
+2N2  0.015938  324.83624
+S1   0.003646  290.566994
+
+[forcing]
+Name                            = Boundary03_0005
+Function                        = astronomic
+Quantity                        = astronomic component
+Unit                            = -
+Quantity                        = waterlevelbnd amplitude
+Unit                            = m
+Quantity                        = waterlevelbnd phase
+Unit                            = deg
+M2   0.328451  351.053494
+S2   0.060362  14.084874
+N2   0.083129  332.655561
+K2   0.019602  15.411136
+K1   0.06668   184.895748
+O1   0.05858   195.382087
+P1   0.024853  189.860068
+Q1   0.014023  176.465236
+MM   0.002193  309.768776
+MF   0.005026  333.336944
+M4   0.001431  182.202522
+MN4  0.000912  213.157199
+MS4  0.002552  45.115848
+2N2  0.015185  323.889605
+S1   0.005171  296.576946
+
